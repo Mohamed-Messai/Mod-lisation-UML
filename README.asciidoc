@@ -1,4 +1,4 @@
-# Outil pour les TDs modélisation UML 
+# Outil pour les TDs modélisation UML (3ICS)
 link:https://www.modelio.org[image:README/logo-modelio-v4.png[]]
 
 link:https://github.com/ModelioOpenSource/Modelio/wiki[*Modelio documentation on GitHub*]
